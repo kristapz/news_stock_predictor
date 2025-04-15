@@ -1,2 +1,2 @@
-# news_stock_predictor
+# stock_predictor
 News based stock predictor
